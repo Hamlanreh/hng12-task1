@@ -57,7 +57,9 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-CORS_ALLOW_ALL_ORIGINS = True
+# CORS_ALLOW_ALL_ORIGINS = True
+
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'hng12-task1-oi3m.onrender.com']
 
 ROOT_URLCONF = 'hng_api.urls'
 
