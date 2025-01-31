@@ -12,9 +12,9 @@ This is a simple Django-based public API for the HNG12 Stage 0 task.
 
 ```json
 {
-  "email": "your-email@example.com",
+  "email": "oluwabihammed49@example.com",
   "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/yourusername/your-repo"
+  "github_url": "https://github.com/Hamlanreh/hng12-task1"
 }
 ```
 
@@ -22,7 +22,7 @@ This is a simple Django-based public API for the HNG12 Stage 0 task.
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Hamlanreh/hng12-task1.git
    cd your-repo
    ```
 
@@ -44,7 +44,7 @@ This is a simple Django-based public API for the HNG12 Stage 0 task.
 
 This API is deployed at:
 ```
-https://your-deployment-url.com/
+https://hng12-task1-oi3m.onrender.com/
 ```
 
 ## Learn More

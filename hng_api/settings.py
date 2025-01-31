@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-wmraompt_^+w7(1+exn63_#x3z!@3ve*)3a=z$-6pe%q5j8vog
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hng12-task1-oi3m.onrender.com','127.0.0.1', 'localhost']
 
 
 # Application definition
@@ -58,8 +58,6 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOW_ALL_ORIGINS = True
-
-ALLOWED_HOSTS = ['hng12-task1-oi3m.onrender.com','127.0.0.1', 'localhost', ]
 
 ROOT_URLCONF = 'hng_api.urls'
 
