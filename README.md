@@ -12,7 +12,7 @@ This is a simple Django-based public API for the HNG12 Stage 0 task.
 
 ```json
 {
-  "email": "oluwabihammed49@example.com",
+  "email": "oluwabihammed49@gmail.com",
   "current_datetime": "2025-01-30T09:30:00Z",
   "github_url": "https://github.com/Hamlanreh/hng12-task1"
 }
