@@ -5,8 +5,8 @@ from django.utils.timezone import now
 
 def public_api(request):
     data = {
-        "email": "your-email@example.com",  # Replace with your HNG12 registered email
+        "email": "oluwabihammed49@example.com",
         "current_datetime": now().isoformat(),
-        "github_url": "https://github.com/yourusername/your-repo"  # Replace with your repo URL
+        "github_url": "https://github.com/Hamlanreh/hng12-task1"
     }
     return JsonResponse(data)
